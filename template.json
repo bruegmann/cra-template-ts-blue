@@ -1,0 +1,11 @@
+{
+    "package": {
+        "dependencies": {
+            "@types/react": "latest",
+            "@types/react-dom": "latest",
+            "blue-react": "latest",
+            "node-sass": "latest",
+            "typescript": "latest"
+        }
+    }
+}

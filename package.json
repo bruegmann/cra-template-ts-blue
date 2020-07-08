@@ -1,0 +1,28 @@
+{
+  "name": "cra-template-ts-blue",
+  "version": "1.0.0",
+  "description": "Blue React template for Create React App",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruegmann/cra-template-ts-blue.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "create-react-app",
+    "template",
+    "cra",
+    "blue"
+  ],
+  "author": "",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/bruegmann/cra-template-ts-blue/issues"
+  },
+  "homepage": "https://github.com/bruegmann/cra-template-ts-blue#readme",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
