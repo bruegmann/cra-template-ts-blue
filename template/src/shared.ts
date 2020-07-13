@@ -9,7 +9,7 @@ export const phrases: IPhrases = {
     "HELLO_WORLD": ["Hello World!", "Hallo Welt!"]
 };
 
-export function getPhrase(keyword: string, countryCode: string = undefined, _phrases: IPhrases = undefined) {
+export function getPhrase(keyword: string, countryCode: undefined | string = undefined, _phrases: undefined | IPhrases = undefined) {
     countryCode = countryCode || (navigator.language).toLowerCase().indexOf("de") > -1 ? "de-DE" : "en-US";
     _phrases = _phrases || phrases;
 
