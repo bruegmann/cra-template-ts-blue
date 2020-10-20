@@ -7,6 +7,7 @@
             "@types/react-dom": "latest",
             "blue-react": "latest",
             "node-sass": "latest",
+            "react-bootstrap-icons": "latest",
             "typescript": "latest"
         }
     }
