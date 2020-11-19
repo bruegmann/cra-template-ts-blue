@@ -1,14 +1,14 @@
 {
     "package": {
         "dependencies": {
-            "@testing-library/jest-dom": "latest",
-            "@testing-library/react": "latest",
-            "@types/react": "latest",
-            "@types/react-dom": "latest",
-            "blue-react": "latest",
-            "node-sass": "latest",
-            "react-bootstrap-icons": "latest",
-            "typescript": "latest"
+            "@testing-library/jest-dom": "^5.11.4",
+            "@testing-library/react": "^11.1.0",
+            "@types/react": "^16.9.53",
+            "@types/react-dom": "^16.9.8",
+            "blue-react": "^6.16.0",
+            "node-sass": "^4.14.1",
+            "react-bootstrap-icons": "^1.1.0",
+            "typescript": "^4.0.3"
         }
     }
 }
